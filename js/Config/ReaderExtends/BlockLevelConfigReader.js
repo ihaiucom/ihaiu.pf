@@ -1,0 +1,51 @@
+/////////////////////////////////////
+// ExportXlsx生成
+// http://blog.ihaiu.com/tool-ExportXlsx
+/////////////////////////////////////
+var __extends = (this && this.__extends) || (function () {
+    var extendStatics = Object.setPrototypeOf ||
+        ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
+        function (d, b) { for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p]; };
+    return function (d, b) {
+        extendStatics(d, b);
+        function __() { this.constructor = d; }
+        d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+    };
+})();
+var configs;
+(function (configs) {
+    var BlockLevelConfigReader = /** @class */ (function (_super) {
+        __extends(BlockLevelConfigReader, _super);
+        function BlockLevelConfigReader() {
+            return _super !== null && _super.apply(this, arguments) || this;
+        }
+        BlockLevelConfigReader.prototype.getSellIcon = function (val) {
+            var list = this.getConfigList();
+            for (var i = 0; i < list.length; i++) {
+                if (list[i].id === User.info.stall) {
+                    if (val >= list[i].marvel_sell) {
+                        return 6028;
+                    }
+                    else if (val >= list[i].myth_sell) {
+                        return 6027;
+                    }
+                    else if (val >= list[i].great_sell) {
+                        return 6026;
+                    }
+                    else if (val >= list[i].big_sell) {
+                        return 6025;
+                    }
+                    else if (val >= list[i].good) {
+                        return 6024;
+                    }
+                    else {
+                        return 6023;
+                    }
+                }
+            }
+        };
+        return BlockLevelConfigReader;
+    }(configs.BlockLevelConfigReaderStruct));
+    configs.BlockLevelConfigReader = BlockLevelConfigReader;
+})(configs || (configs = {}));
+//# sourceMappingURL=BlockLevelConfigReader.js.map

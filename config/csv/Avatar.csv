@@ -1,0 +1,230 @@
+﻿int	string	string	string	string	string	string	string	string
+ID	英文名称	中文名称	半身像	小图标	碎片图标	模型_皮肤	模型_骨骼	场景_图片
+id	en_name	zh_cn_name	body_icon	icon	piece_icon	model_skin	model_bones	bg_pic
+1		有所耳闻		PopularityIcon/yousuoerwen				
+2		翘首以待		PopularityIcon/qiaoshouyipan				
+3		万众瞩目		PopularityIcon/wanzhongzhumu				
+4		一票难求		PopularityIcon/yipiaonanqiu				
+9998	NPCMale	男NPC	PlayerBodyIcon/npc1			Npc/Man_02/2003_Male	Bones/Man_02	
+9999	NPCFemale	女NPC	PlayerBodyIcon/npc2			Npc/Female_01/2004_Famle	Bones/Female_01	
+1001	Joan	安吉丽娜朱莉	ActorBodyIcon/Joan	ActorHeadIcon/Joan		Actor/Man_01/1001_Joan	Bones/Man_01	
+1002	Sven	克里斯·埃文斯	ActorBodyIcon/Sven	ActorHeadIcon/Sven		Actor/Man_01/1002_Sven	Bones/Man_01	
+1003	Drago	成龙	ActorBodyIcon/Drago	ActorHeadIcon/Drago		Actor/Man_01/1003_Drago	Bones/Man_01	
+1004	Britney	艾玛斯通	ActorBodyIcon/Britney	ActorHeadIcon/Britney		Actor/Man_01/1004_Britney	Bones/Man_01	
+1005	Machel	麦德斯·米科尔森	ActorBodyIcon/Machel	ActorHeadIcon/Machel		Actor/Man_01/1005_Machel	Bones/Man_01	
+1006	Purple	巩俐	ActorBodyIcon/Purple	ActorHeadIcon/Purple		Actor/Man_01/1006_Purple	Bones/Man_01	
+1007	Lock	尼古拉斯凯奇	ActorBodyIcon/Lock	ActorHeadIcon/Lock		Actor/Man_01/1007_Lock	Bones/Man_01	
+1008	Rainborn	艾米莉亚·克拉克	ActorBodyIcon/Rainborn	ActorHeadIcon/Rainborn		Actor/Man_01/1008_Rainborn	Bones/Man_01	
+1009	Lily	章子怡	ActorBodyIcon/Lily	ActorHeadIcon/Lily		Actor/Man_01/1009_Lily	Bones/Man_01	
+1010	Barton	阿什顿库彻	ActorBodyIcon/Barton	ActorHeadIcon/Barton		Actor/Man_01/1010_Barton	Bones/Man_01	
+1011	Stan	尼尔帕特里克哈里斯	ActorBodyIcon/Stan	ActorHeadIcon/Stan		Actor/Man_01/1011_Stan	Bones/Man_01	
+1012	Empress	范冰冰	ActorBodyIcon/Empress	ActorHeadIcon/Empress		Actor/Man_01/1012_Empress	Bones/Man_01	
+1013	Kris	特工卡特	ActorBodyIcon/Kris	ActorHeadIcon/Kris		Actor/Man_01/1013_Kris	Bones/Man_01	
+1014	Ellen	扎克埃夫隆	ActorBodyIcon/Ellen	ActorHeadIcon/Ellen		Actor/Man_01/1014_Ellen	Bones/Man_01	
+1015	Glenn	孔侑	ActorBodyIcon/Glenn	ActorHeadIcon/Glenn		Actor/Man_01/1015_Glenn	Bones/Man_01	
+1016	Mari	奥黛丽赫本	ActorBodyIcon/Mari	ActorHeadIcon/Mari		Actor/Man_01/1016_Mari	Bones/Man_01	
+1017	Taylor	汤姆希德勒斯顿	ActorBodyIcon/Taylor	ActorHeadIcon/Taylor		Actor/Man_01/1017_Taylor	Bones/Man_01	
+1018	Bart	布拉德皮特	ActorBodyIcon/Bart	ActorHeadIcon/Bart		Actor/Man_01/1018_Bart	Bones/Man_01	
+1019	Sanjay	阿米尔汗	ActorBodyIcon/Sanjay	ActorHeadIcon/Sanjay		Actor/Man_01/1019_Sanjay	Bones/Man_01	
+1020	Alfred	本阿弗莱克	ActorBodyIcon/Alfred	ActorHeadIcon/Alfred		Actor/Man_01/1020_Alfred	Bones/Man_01	
+1021	Cecilia	凯拉奈特莉	ActorBodyIcon/Cecilia	ActorHeadIcon/Cecilia		Actor/Man_01/1021_Cecilia	Bones/Man_01	
+1022	Ben	布莱德利库珀	ActorBodyIcon/Ben	ActorHeadIcon/Ben		Actor/Man_01/1022_Ben	Bones/Man_01	
+1023	Bolyd	杰森斯坦森	ActorBodyIcon/Bolyd	ActorHeadIcon/Bolyd		Actor/Man_01/1023_Bolyd	Bones/Man_01	
+1024	Zoe	米拉乔沃维奇	ActorBodyIcon/Zoe	ActorHeadIcon/Zoe		Actor/Man_01/1024_Zoe	Bones/Man_01	
+1025	Parsifal	泰伊谢里丹	ActorBodyIcon/Parsifal	ActorHeadIcon/Parsifal		Actor/Man_01/1025_Parsifal	Bones/Man_01	
+1026	Winter	莎拉保罗森	ActorBodyIcon/Winter	ActorHeadIcon/Winter		Actor/Man_01/1026_Winter	Bones/Man_01	
+1027	Janny	伊丽莎白莫斯	ActorBodyIcon/Janny	ActorHeadIcon/Janny		Actor/Man_01/1027_Janny	Bones/Man_01	
+1028	Catie	哈利贝瑞	ActorBodyIcon/Catie	ActorHeadIcon/Catie		Actor/Man_01/1028_Catie	Bones/Man_01	
+1029	June	杨紫琼	ActorBodyIcon/June	ActorHeadIcon/June		Actor/Man_01/1029_June	Bones/Man_01	
+1030	Juan	贾维尔巴登	ActorBodyIcon/Juan	ActorHeadIcon/Juan		Actor/Man_01/1030_Juan	Bones/Man_01	
+2001		钻石		ItemIcon/icon_1				
+2002		金币		ItemIcon/icon_2				
+2003		美元		ItemIcon/icon_3				
+2004		拍摄许可证		ItemIcon/icon_4				
+2005		科幻片激光器		ItemIcon/icon_4001				
+2006		奇幻片魔法剑		ItemIcon/icon_4002				
+2007		现代片钢笔		ItemIcon/icon_4003				
+2008		励志片名言T恤		ItemIcon/icon_4004				
+2009		战争片勋章		ItemIcon/icon_4005				
+2010		冒险片牛仔帽		ItemIcon/icon_4006				
+2011		古装片铠甲		ItemIcon/icon_4007				
+2012		犯罪片头套		ItemIcon/icon_4008				
+2013		谍战片墨镜		ItemIcon/icon_4009				
+2014		灾难片手电筒		ItemIcon/icon_4010				
+2015		叙事片明信片		ItemIcon/icon_4011				
+2016		喜剧片气球		ItemIcon/icon_4012				
+2017		动作片沙袋		ItemIcon/icon_4013				
+2018		爱情片海报		ItemIcon/icon_4014				
+2019		动画片音乐CD		ItemIcon/icon_4015				
+2020		悬疑片手铐		ItemIcon/icon_4016				
+2021		恐怖片面具		ItemIcon/icon_4017				
+2022		动画片公仔		ItemIcon/icon_4018				
+2023		潮流耳机		ItemIcon/icon_6001				
+2024		雕塑		ItemIcon/icon_6002				
+2025		瓷器		ItemIcon/icon_6003				
+2026		领带		ItemIcon/icon_6004				
+2027		手提包		ItemIcon/icon_6005				
+2028		运动鞋		ItemIcon/icon_6006				
+2029		单反相机		ItemIcon/icon_6007				
+2030		油画		ItemIcon/icon_6008				
+2031		茶具		ItemIcon/icon_6009				
+2032		砖头		ItemIcon/icon_9004				
+2033		玻璃		ItemIcon/icon_9001				
+2034		水泥		ItemIcon/icon_9003				
+2035		木材		ItemIcon/icon_9002				
+2036		培养卡		ItemIcon/icon_5001				
+2037		邀请函		ItemIcon/icon_5002				
+2038		忠诚卡		ItemIcon/icon_5003				
+2039		进修券		ItemIcon/icon_5004				
+2040		宣传册		ItemIcon/icon_5005				
+2041		喇叭		ItemIcon/icon_5006				
+2042		资产礼包		ItemIcon/icon_8001				
+2043		粉丝		ItemIcon/icon_5				
+2044		点赞数		ItemIcon/icon_6				
+2045		生产图纸		ItemIcon/icon_7				
+2046		星探卡		ItemIcon/icon_5007				
+2047		期待值		ItemIcon/icon_8				
+2048		改名卡		ItemIcon/icon_5008				
+2201		电影院		BuildingSmall/F1_small				
+2202		摄影棚		BuildingSmall/F2_small				
+2203		艺人教室		BuildingSmall/F3_small				
+2204		市场部		BuildingSmall/F4_small				
+2205		宣传部		BuildingSmall/F5_small				
+2206		仓库		BuildingSmall/F6_small				
+2207		销售部		BuildingSmall/F7_small				
+2208		商务部		BuildingSmall/F8_small				
+2209		办公室		BuildingSmall/F9_small				
+2210		接待室		BuildingSmall/F10_small				
+2211		会议室		BuildingSmall/F11_small				
+2212		财务部		BuildingSmall/F12_small				
+2213		训练室		BuildingSmall/F13_small				
+2214		全国商务部		BuildingSmall/F14_small				
+2215		环球商务部		BuildingSmall/F15_small				
+2216		收藏室		BuildingSmall/F16_small				
+3001		万达影城		CinemaIcon/yingyuan02				
+3002		锦豪影城		CinemaIcon/yingyuan21				
+3003		良才院线		CinemaIcon/yingyuan14				
+3004		小钥影院		CinemaIcon/yingyuan16				
+3005		阿宇影院		CinemaIcon/yingyuan13				
+3006		双木影院		CinemaIcon/yingyuan12				
+3007		凡威影院		CinemaIcon/yingyuan09				
+3008		RINZ影院		CinemaIcon/yingyuan20				
+3009		立秋院线		CinemaIcon/yingyuan08				
+3010		春茂影院		CinemaIcon/yingyuan11				
+3011		三茂影城		CinemaIcon/yingyuan15				
+3012		璐璐影院		CinemaIcon/yingyuan10				
+3013		昕昕影院		CinemaIcon/yingyuan19				
+3014		艾米院线		CinemaIcon/yingyuan01				
+3015		天行影城		CinemaIcon/yingyuan18				
+3016		宙斯影城		CinemaIcon/yingyuan17				
+3017		宙游院线		CinemaIcon/yingyuan22				
+3018		值尚院线		CinemaIcon/yingyuan07				
+4001		街区		BlockIcon/bs_01				
+4002		城镇		BlockIcon/bs_02				
+4003		州省		BlockIcon/bs_03				
+4004		全国		BlockIcon/bs_04				
+4005		世界		BlockIcon/bs_05				
+5001		仓库		MenuIcon/icon_depot_zjm				
+5002		探班		MenuIcon/rk_fensitanban				
+5003		公务		MenuIcon/rk_gongwuwenjian				
+5004		合作		MenuIcon/rk_hezuo				
+5005		会议		MenuIcon/rk_huiyishijian				
+5006		拍摄		MenuIcon/icon_film_zjm				
+5007		生产		MenuIcon/rk_shengchan_button				
+5008		市场		MenuIcon/icon_market_zjm				
+5009		订单		MenuIcon/rk_weituo_button				
+5010		星探		MenuIcon/rk_xingtan				
+5011		艺人		MenuIcon/icon_artist_zjm				
+5012		财务兑换		MenuIcon/rk_ziyuanzhuanhuan				
+5013		管理		MenuIcon/icon_manage_zjm				
+5014		社交		MenuIcon/icon_social_zjm				
+5015		经营		MenuIcon/icon_run_zjm				
+5016		颁奖		MenuIcon/icon_awards_zjm				
+5017		聊天		MenuIcon/icon_chat_zjm				
+5018		活动		MenuIcon/icon_event_zjm				
+5019		邮箱		MenuIcon/icon_mail_zjm				
+5020		任务		MenuIcon/icon_mission_zjm				
+5021		首充		MenuIcon/icon_pay_zjm				
+5022		设置		MenuIcon/icon_set_zjm				
+5023		商店		MenuIcon/icon_shop_zjm				
+5024		超级偶像		MenuIcon/icon_superidol_zjm				
+5025		引导		MenuIcon/icon_tips_zjm				
+5026		奖杯		MenuIcon/icon_trophy_zjm				
+5027		福利		MenuIcon/icon_weal_zjm				
+6001		女		ShootIcon/nv_logo				
+6002		男		ShootIcon/nan_logo				
+6003		美国		ShootIcon/united states				
+6004		欧洲		ShootIcon/european union				
+6005		亚洲		ShootIcon/china				
+6006		1星，2星		ShootIcon/tongyong_xingxing_bai				
+6007		3星，4星		ShootIcon/tongyong_xingxing_lan				
+6008		5星		ShootIcon/tongyong_xingxing_jing				
+6009		6星		ShootIcon/tongyong_xingxing_zi				
+6010		场面		ShootIcon/yr_icon_changmian				
+6011		表演		ShootIcon/yr_icon_biaoyan				
+6012		剧情		ShootIcon/yr_icon_juben				
+6013		艺术		ShootIcon/yr_icon_yishu				
+6014		娱乐		ShootIcon/yr_icon_yule				
+6015		电影通告插图1		ShootIcon/dh01_diban				
+6016		电影通告插图2		ShootIcon/dh02_diban				
+6017		电影通告插图3		ShootIcon/dh03_diban				
+6018		电影通告插图4		ShootIcon/dh04_diban				
+6019		电影通告插图5		ShootIcon/dh05_diban				
+6020		电影通告插图6		ShootIcon/dh06_diban				
+6021		电影通告插图7		ShootIcon/dh07_diban				
+6022		电影通告插图8		ShootIcon/dh08_diban				
+6023		一般		ShootIcon/ps_pingjia1				
+6024		良好		ShootIcon/ps_pingjia2				
+6025		大卖		ShootIcon/ps_pingjia3				
+6026		超级大卖		ShootIcon/ps_pingjia4				
+6027		传奇		ShootIcon/ps_pingjia5				
+6028		神话		ShootIcon/ps_pingjia6				
+6029		动作		ShootIcon/pslx2201				
+6030		爱情		ShootIcon/pslx2202				
+6031		动画		ShootIcon/pslx2203				
+6032		叙事		ShootIcon/pslx2204				
+6033		悬疑		ShootIcon/pslx2205				
+6034		恐怖		ShootIcon/pslx2206				
+6035		喜剧		ShootIcon/pslx2207				
+6036		歌舞		ShootIcon/pslx2208				
+6101		北美旗		ShootIcon/qizhi_beimei				
+7101		女性头像1		PlayerHeadIcon/f001				
+7102		女性头像2		PlayerHeadIcon/f002				
+7103		女性头像3		PlayerHeadIcon/f003				
+7104		女性头像4		PlayerHeadIcon/f004				
+7105		女性头像5		PlayerHeadIcon/f005				
+7201		男性头像1		PlayerHeadIcon/m001				
+7202		男性头像2		PlayerHeadIcon/m002				
+7203		男性头像3		PlayerHeadIcon/m003				
+7204		男性头像4		PlayerHeadIcon/m004				
+7205		男性头像5		PlayerHeadIcon/m005				
+8001		情多深雨多濛		StoryIcon/movie1				
+8002		西服农民		StoryIcon/movie2				
+8003		神力女超人		StoryIcon/movie3				
+8004		囧人归家		StoryIcon/movie4				
+8005		寄生少年		StoryIcon/movie5				
+8006		暗藏危机		StoryIcon/movie6				
+8007		探索死亡之地		StoryIcon/movie7				
+8008		废材天才		StoryIcon/movie8				
+8009		花甲特工		StoryIcon/movie9				
+8010		穿山甲说了什么		StoryIcon/movie10				
+8011		怪兽袭击		StoryIcon/movie11				
+8012		江湖险恶		StoryIcon/movie12				
+8013		子弹再飞一会		StoryIcon/movie13				
+8014		眼镜伪装者		StoryIcon/movie14				
+8015		中村下等兵		StoryIcon/movie15				
+8016		再见无期		StoryIcon/movie16				
+8017		飞檐走壁高中生		StoryIcon/movie17				
+8018		人虎大战		StoryIcon/movie18				
+8019		海上小子		StoryIcon/movie19				
+8020		探陵		StoryIcon/movie20				
+8021		翡翠之城遇到你		StoryIcon/movie21				
+8022		天机烧剩两张图		StoryIcon/movie22				
+8023		四十米大掌		StoryIcon/movie23				
+8024		一人一马走天涯		StoryIcon/movie24				
+8025		大龄青年的回忆		StoryIcon/movie25				
+8026		白骨恋人		StoryIcon/movie26				
+8027		游轮撞冰山		StoryIcon/movie27				
+8028		警察传说		StoryIcon/movie28				
+8029		幸福的幻想		StoryIcon/movie29				
+8030		爱情游戏		StoryIcon/movie30				
